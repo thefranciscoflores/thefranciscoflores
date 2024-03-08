@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Francisco Flores. I'm currently a Computer Engineering Student at Cal Poly Pomona.
 
+Thank you for visiting my repo :) 
 <!--
 **thefranciscoflores/thefranciscoflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
